@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Halaman Login</string>
+    <string name="login">Login</string>
+    <string name="username">username</string>
+    <string name="password">password</string>
+    <string name="klikLogin">Login</string>
+    <string name="newMember">New Member?</string>
+    <string name="register">" "Register</string>
+</resources>
